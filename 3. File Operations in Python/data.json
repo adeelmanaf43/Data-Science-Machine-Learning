@@ -1,0 +1,37 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "age": 23,
+      "gender": "Female",
+      "scores": {
+        "math": 85,
+        "science": 90,
+        "english": 88
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "age": 25,
+      "gender": "Male",
+      "scores": {
+        "math": 78,
+        "science": 82,
+        "english": 80
+      }
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "age": 22,
+      "gender": "Male",
+      "scores": {
+        "math": 92,
+        "science": 89,
+        "english": 94
+      }
+    }
+  ]
+}
