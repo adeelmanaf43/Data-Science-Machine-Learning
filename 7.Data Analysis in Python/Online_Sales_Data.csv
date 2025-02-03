@@ -1,0 +1,51 @@
+Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Revenue,Region,Payment Type
+T001,2024-01-01,Electronics,Smartphone,5,700,3500,North,Card
+T002,2024-01-02,Electronics,Laptop,2,1200,2400,South,Cash
+T003,2024-01-03,Fashion,T-Shirt,10,20,200,East,Card
+T004,2024-01-04,Home & Kitchen,Blender,3,50,150,West,Online
+T005,2024-01-05,Electronics,Tablet,4,300,1200,North,Cash
+T006,2024-01-06,Groceries,Rice (5kg),8,15,120,South,Card
+T007,2024-01-07,Fashion,Jeans,6,40,240,East,Online
+T008,2024-01-08,Electronics,Headphones,7,80,560,West,Cash
+T009,2024-01-09,Home & Kitchen,Microwave,2,150,300,North,Card
+T010,2024-01-10,Electronics,Smartwatch,3,250,750,South,Online
+T011,2024-01-11,Fashion,Sneakers,4,60,240,East,Cash
+T012,2024-01-12,Groceries,Milk (1L),20,2,40,West,Card
+T013,2024-01-13,Home & Kitchen,Toaster,5,30,150,North,Online
+T014,2024-01-14,Electronics,Camera,2,500,1000,South,Cash
+T015,2024-01-15,Fashion,Jacket,3,100,300,East,Card
+T016,2024-01-16,Groceries,Apples (1kg),10,3,30,West,Online
+T017,2024-01-17,Electronics,Monitor,4,200,800,North,Cash
+T018,2024-01-18,Home & Kitchen,Coffee Maker,3,120,360,South,Card
+T019,2024-01-19,Fashion,Hat,6,25,150,East,Online
+T020,2024-01-20,Groceries,Chicken (1kg),8,7,56,West,Cash
+T021,2024-01-21,Electronics,Smartphone,5,750,3750,North,Card
+T022,2024-01-22,Fashion,Trousers,6,50,300,South,Online
+T023,2024-01-23,Home & Kitchen,Air Fryer,2,180,360,East,Cash
+T024,2024-01-24,Electronics,Keyboard,8,40,320,West,Card
+T025,2024-01-25,Groceries,Tomatoes (1kg),12,4,48,North,Online
+T026,2024-01-26,Fashion,Dress,4,80,320,South,Cash
+T027,2024-01-27,Electronics,Mouse,10,30,300,East,Card
+T028,2024-01-28,Home & Kitchen,Vacuum Cleaner,1,250,250,West,Online
+T029,2024-01-29,Groceries,Potatoes (5kg),7,6,42,North,Cash
+T030,2024-01-30,Fashion,Sandals,5,35,175,South,Card
+T031,2024-01-31,Electronics,TV,2,900,1800,East,Online
+T032,2024-02-01,Home & Kitchen,Refrigerator,1,1200,1200,West,Cash
+T033,2024-02-02,Fashion,Suit,3,150,450,North,Card
+T034,2024-02-03,Groceries,Eggs (Dozen),10,3,30,South,Online
+T035,2024-02-04,Electronics,Speakers,6,100,600,East,Cash
+T036,2024-02-05,Home & Kitchen,Dining Set,1,500,500,West,Card
+T037,2024-02-06,Fashion,Belt,7,20,140,North,Online
+T038,2024-02-07,Groceries,Bananas (1kg),15,2,30,South,Cash
+T039,2024-02-08,Electronics,Router,4,80,320,East,Card
+T040,2024-02-09,Home & Kitchen,Cookware Set,3,200,600,West,Online
+T041,2024-02-10,Groceries,Bread,20,2,40,North,Cash
+T042,2024-02-11,Fashion,Watch,2,220,440,South,Card
+T043,2024-02-12,Electronics,External HDD,5,100,500,East,Online
+T044,2024-02-13,Home & Kitchen,Water Purifier,2,300,600,West,Cash
+T045,2024-02-14,Groceries,Oranges (1kg),10,3,30,North,Card
+T046,2024-02-15,Fashion,Gloves,8,15,120,South,Online
+T047,2024-02-16,Electronics,Projector,3,400,1200,East,Cash
+T048,2024-02-17,Home & Kitchen,Iron,4,50,200,West,Card
+T049,2024-02-18,Fashion,Socks,12,5,60,North,Online
+T050,2024-02-19,Groceries,Carrots (1kg),9,3,27,South,Cash

@@ -1,0 +1,75 @@
+Date,Category,Value,Product,Sales,Region
+2024-01-01,Electronics,700,Smartphone,5,North
+2024-01-02,Electronics,1200,Laptop,2,South
+2024-01-03,Fashion,20,T-Shirt,10,East
+2024-01-04,Home & Kitchen,50,Blender,3,West
+2024-01-05,Electronics,,Tablet,4,North
+2024-01-06,Groceries,15,Rice (5kg),8,South
+2024-01-07,Fashion,40,Jeans,6,East
+2024-01-08,Electronics,80,Headphones,7,West
+2024-01-09,Home & Kitchen,150,Microwave,2,North
+2024-01-10,Electronics,250,Smartwatch,3,South
+2024-01-11,Fashion,60,Sneakers,4,East
+2024-01-12,Groceries,2,Milk (1L),20,West
+2024-01-13,Home & Kitchen,30,Toaster,5,North
+2024-01-14,Electronics,500,Camera,2,South
+2024-01-15,Fashion,100,Jacket,3,East
+2024-01-16,Groceries,3,Apples (1kg),10,West
+2024-01-17,Electronics,200,Monitor,4,North
+2024-01-18,Home & Kitchen,120,Coffee Maker,3,South
+2024-01-19,Fashion,25,Hat,6,East
+2024-01-20,Groceries,7,Chicken (1kg),8,West
+2024-01-21,Electronics,750,Smartphone,5,North
+2024-01-22,Fashion,50,Trousers,6,South
+2024-01-23,Home & Kitchen,180,Air Fryer,2,East
+2024-01-24,Electronics,40,Keyboard,8,West
+2024-01-25,Groceries,4,Tomatoes (1kg),12,North
+2024-01-26,Fashion,80,Dress,4,South
+2024-01-27,Electronics,30,Mouse,10,East
+2024-01-28,Home & Kitchen,250,Vacuum Cleaner,1,West
+2024-01-29,Groceries,6,Potatoes (5kg),7,North
+2024-01-30,Fashion,35,Sandals,5,South
+2024-01-31,Electronics,900,TV,2,East
+2024-02-01,Home & Kitchen,1200,Refrigerator,1,West
+2024-02-02,Fashion,150,Suit,3,North
+2024-02-03,Groceries,3,Eggs (Dozen),10,South
+2024-02-04,Electronics,100,Speakers,6,East
+2024-02-05,Home & Kitchen,500,Dining Set,1,West
+2024-02-06,Fashion,20,Belt,7,North
+2024-02-07,Groceries,2,Bananas (1kg),15,South
+2024-02-08,Electronics,80,Router,4,East
+2024-02-09,Home & Kitchen,200,Cookware Set,3,West
+2024-02-10,Groceries,2,Bread,20,North
+2024-02-11,Fashion,220,Watch,2,South
+2024-02-12,Electronics,100,,5,East
+2024-02-13,Home & Kitchen,300,Water Purifier,2,West
+2024-02-14,Groceries,3,Oranges (1kg),10,North
+2024-02-15,Fashion,15,Gloves,8,South
+2024-02-16,Electronics,400,Projector,3,East
+2024-02-17,Home & Kitchen,50,Iron,4,West
+2024-02-18,Fashion,5,Socks,12,North
+2024-02-19,Groceries,3,Carrots (1kg),9,South
+2024-02-20,Electronics,700,Smartphone,5,North
+2024-02-21,Electronics,1200,Laptop,2,South
+2024-02-22,Fashion,20,T-Shirt,10,East
+2024-02-23,Home & Kitchen,50,Blender,3,West
+2024-02-24,Electronics,300,Tablet,4,North
+2024-02-25,Groceries,15,Rice (5kg),8,South
+2024-02-26,Fashion,40,Jeans,6,East
+2024-02-27,Electronics,80,Headphones,7,West
+2024-02-28,Home & Kitchen,150,Microwave,2,North
+2024-02-29,Electronics,250,Smartwatch,3,South
+2024-03-01,Fashion,60,Sneakers,4,East
+2024-03-02,Groceries,2,Milk (1L),20,West
+2024-03-03,Home & Kitchen,30,Toaster,5,North
+2024-03-04,Electronics,500,Camera,2,South
+2024-03-05,Fashion,100,Jacket,3,East
+2024-03-06,Groceries,3,Apples (1kg),10,West
+2024-03-07,Electronics,200,Monitor,,North
+2024-03-08,Home & Kitchen,120,Coffee Maker,3,South
+2024-03-09,Fashion,25,Hat,6,East
+2024-03-10,Groceries,7,Chicken (1kg),8,West
+2024-03-11,Electronics,750,Smartphone,5,North
+2024-03-12,Fashion,50,Trousers,6,South
+2024-03-13,Home & Kitchen,180,Air Fryer,2,East
+2024-03-14,Electronics,40,Keyboard,8,West
