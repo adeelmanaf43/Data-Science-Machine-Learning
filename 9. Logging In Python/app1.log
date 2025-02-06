@@ -1,0 +1,8 @@
+2025-02-05 18:36:21-ArithmeticApp-DEBUG-Adding 10 + 15 = 25
+2025-02-05 18:36:21-ArithmeticApp-DEBUG-Adding 15 - 10 = 5
+2025-02-05 18:36:21-ArithmeticApp-DEBUG-Adding 10 * 20 = 200
+2025-02-05 18:36:21-ArithmeticApp-DEBUG-Adding 20 / 10 = 2.0
+2025-02-05 18:37:32-ArithmeticApp-DEBUG-Adding 10 + 15 = 25
+2025-02-05 18:37:32-ArithmeticApp-DEBUG-Subtracting 15 - 10 = 5
+2025-02-05 18:37:32-ArithmeticApp-DEBUG-Multiplying 10 * 20 = 200
+2025-02-05 18:37:32-ArithmeticApp-DEBUG-Dividing 20 / 10 = 2.0
